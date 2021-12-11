@@ -1,0 +1,17 @@
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.exe
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.deps.json
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.runtimeconfig.json
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.runtimeconfig.dev.json
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.dll
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\ref\SendMessageUsingOneSignal.dll
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\SendMessageUsingOneSignal.pdb
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.csproj.AssemblyReference.cache
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.AssemblyInfoInputs.cache
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.AssemblyInfo.cs
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.csproj.CoreCompileInputs.cache
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.dll
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\ref\SendMessageUsingOneSignal.dll
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.pdb
+D:\SendMessageUsingOneSignal\SendMessageUsingOneSignal\obj\Debug\net5.0\SendMessageUsingOneSignal.genruntimeconfig.cache
